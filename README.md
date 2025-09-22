@@ -96,6 +96,8 @@ Enables data-driven strategy for improving occupancy, reducing cancellations, an
 
 
 # 📷 Dashboard Screenshots
+### Executive Overview
+![Executive Overview](https://github.com/Parag-soda/Data-Analysis-Project-/blob/75b9fdadb1eb79d8da2cce48fda9ec3ab22c36c8/Power%20BI%20project/Screenshot%202025-09-22%20155926.png)
 ### Bookings & Occupancy
 ![Bookings & Occupancy](https://github.com/Parag-soda/Data-Analysis-Project-/blob/608b8a8fcfe0adc673e5dd47facd27b409e7a726/Power%20BI%20project/Screenshot%202025-09-22%20155808.png)
 
