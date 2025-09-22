@@ -96,11 +96,11 @@ Enables data-driven strategy for improving occupancy, reducing cancellations, an
 
 
 # 📷 Dashboard Screenshots
-### Business Overview
-![Business Overview](C:\Users\PARAG RAJENIMBALKAR\OneDrive\Pictures\Screenshots\Screenshot 2025-09-22 155808.png)
+### Bookings & Occupancy
+![Bookings & Occupancy](https://github.com/Parag-soda/Data-Analysis-Project-/blob/608b8a8fcfe0adc673e5dd47facd27b409e7a726/Power%20BI%20project/Screenshot%202025-09-22%20155808.png)
 
-### Hotel Performance
-![Hotel Performance](https://github.com/yuvrajpawar4766/Data-Analysis-Project/blob/88fad744ac7e42ab4a297d684e671d685d6f076e/Power%20BI-Projects/ITV%20Hotels%20Dashboard/Screenshot%202025-09-11%20002906.png)
+### Revenue & Profitability
+![Revenue & Profitability](https://github.com/Parag-soda/Data-Analysis-Project-/blob/608b8a8fcfe0adc673e5dd47facd27b409e7a726/Power%20BI%20project/Screenshot%202025-09-22%20155840.png)
 
-### Room & Customer Insights
-![[Customer Insights](images/customer_insights.png](https://github.com/yuvrajpawar4766/Data-Analysis-Project/blob/651b4991d70fa85d0f2cb54b01fff7964a32119a/Power%20BI-Projects/ITV%20Hotels%20Dashboard/Screenshot%202025-09-11%20002921.png)
+### Trends & Seasonality Dashboard
+![[Trends & Seasonality Dashboard](images/customer_insights.png](https://github.com/Parag-soda/Data-Analysis-Project-/blob/608b8a8fcfe0adc673e5dd47facd27b409e7a726/Power%20BI%20project/Screenshot%202025-09-22%20155905.png)
