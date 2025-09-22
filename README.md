@@ -93,3 +93,14 @@ Provides financial performance insights with revenue leakage analysis.
 Adds customer perspective with ratings distribution.
 
 Enables data-driven strategy for improving occupancy, reducing cancellations, and increasing profitability.
+
+
+# 📷 Dashboard Screenshots
+### Business Overview
+![Business Overview]()
+
+### Hotel Performance
+![Hotel Performance](https://github.com/yuvrajpawar4766/Data-Analysis-Project/blob/88fad744ac7e42ab4a297d684e671d685d6f076e/Power%20BI-Projects/ITV%20Hotels%20Dashboard/Screenshot%202025-09-11%20002906.png)
+
+### Room & Customer Insights
+![[Customer Insights](images/customer_insights.png](https://github.com/yuvrajpawar4766/Data-Analysis-Project/blob/651b4991d70fa85d0f2cb54b01fff7964a32119a/Power%20BI-Projects/ITV%20Hotels%20Dashboard/Screenshot%202025-09-11%20002921.png)
