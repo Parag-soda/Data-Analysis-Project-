@@ -97,7 +97,7 @@ Enables data-driven strategy for improving occupancy, reducing cancellations, an
 
 # 📷 Dashboard Screenshots
 ### Business Overview
-![Business Overview]()
+![Business Overview](C:\Users\PARAG RAJENIMBALKAR\OneDrive\Pictures\Screenshots\Screenshot 2025-09-22 155808.png)
 
 ### Hotel Performance
 ![Hotel Performance](https://github.com/yuvrajpawar4766/Data-Analysis-Project/blob/88fad744ac7e42ab4a297d684e671d685d6f076e/Power%20BI-Projects/ITV%20Hotels%20Dashboard/Screenshot%202025-09-11%20002906.png)
