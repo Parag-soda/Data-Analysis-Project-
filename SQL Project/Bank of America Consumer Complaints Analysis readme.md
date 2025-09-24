@@ -9,7 +9,9 @@ The goal was to uncover complaint trends, product issues, submission channels, a
 
 🛠️ Tools Used
 ⦁	MySQL
+
 ⦁	Excel (for basic exploration)
+
 ⦁	PowerPoint (for case study presentation)
 
 
