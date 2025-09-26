@@ -87,5 +87,7 @@ The outcomes will support data-driven decision-making for sales optimization, ma
 •	Time-based Analysis
 
 
-https://github.com/Parag-soda/Data-Analysis-Project-/blob/5efde3630d39840aaa5510ec09b90e55764eb3c0/Excel%20Project/Screenshot%202025-09-25%20155033.png
+### Zebronics Sales Analysis Dashboard
+
+![Zebronics Sales Analysis](https://github.com/Parag-soda/Data-Analysis-Project-/blob/5efde3630d39840aaa5510ec09b90e55764eb3c0/Excel%20Project/Screenshot%202025-09-25%20155033.png)
 
