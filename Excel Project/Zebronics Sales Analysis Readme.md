@@ -1,7 +1,8 @@
-📄 Zebronics Sales Analysis – Project Proposal
+📄 Zebronics Sales Analysis –
 📌 Project Proposal
 
 This project aims to analyze Zebronics’ sales performance across India using a dataset of 18,000 transactions (2023–2024).
+
 The dataset captures customer demographics, sales channels, products, and revenue, enabling insights into:
 
 Customer behavior (age groups, regional differences).
@@ -14,17 +15,11 @@ Seasonality and time-based sales trends.
 
 The outcomes will support data-driven decision-making for sales optimization, marketing strategies, and customer targeting.
 
+
 🛠 Tools Used
 
 Excel → Data cleaning, pivot tables, basic analysis
 
-Power BI / Tableau → Dashboard creation, data visualization
-
-SQL → Data querying, aggregations, customer segmentation
-
-Python (Pandas, Matplotlib, Seaborn) → Advanced analytics, visualization (optional)
-
-GitHub → Version control, documentation, project sharing
 
 📊 Key Performance Indicators (KPIs)
 
@@ -48,40 +43,35 @@ Top Products by Revenue = Highest-selling products
 
 Sales by Age Group = Contribution of Young, Adult, Senior
 
-📈 Dashboard Insights (from Power BI / Tableau)
-
-Sales Overview Page
+📈 Dashboard Insights
+Sales Overview 
 
 Total Revenue, Orders, Customers, AOV
 
-Monthly revenue trend (line chart)
+Monthly revenue trend 
 
-Platform-wise sales contribution (donut chart)
+Platform-wise sales contribution 
 
-Customer Insights Page
+Customer Insights
 
-Revenue by Age Group (bar chart)
+Revenue by Age Group 
+Customer count distribution 
 
-Customer count distribution (tree map)
+Avg Revenue per Age Group 
 
-Avg Revenue per Age Group (comparison chart)
+Product Performance
 
-Product Performance Page
-
-Top 10 products by revenue (bar chart)
+Top 10 products by revenue 
 
 Quantity sold vs revenue comparison
 
-Category contribution (here, only Electronics)
+Category contribution
 
-Regional Analysis Page
+Regional Analysis
 
-State-wise revenue (map visualization)
+State-wise revenue 
 
-City-wise top customers (table/heatmap)
+City-wise top customers 
 
-Time-based Analysis Page
+Time-based Analysis
 
-Monthly/Quarterly revenue trend (line chart)
-
-Seasonality patterns in sales (heat map by Month & Day)
