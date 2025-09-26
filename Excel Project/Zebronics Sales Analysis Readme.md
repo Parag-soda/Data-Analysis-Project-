@@ -18,9 +18,11 @@ The dataset captures customer demographics, sales channels, products, and revenu
 The outcomes will support data-driven decision-making for sales optimization, marketing strategies, and customer targeting.
 
 
+
 🛠 Tools Used
 
 •	Excel → Data cleaning, pivot tables, basic analysis
+
 
 
 📊 Key Performance Indicators (KPIs)
@@ -45,6 +47,8 @@ The outcomes will support data-driven decision-making for sales optimization, ma
 
 •	Sales by Age Group = Contribution of Young, Adult, Senior
 
+
+
 📈 Dashboard Insights
 •	Sales Overview 
 
@@ -57,7 +61,6 @@ The outcomes will support data-driven decision-making for sales optimization, ma
 •	Customer Insights
 
 •	Revenue by Age Group 
-
 
 •	Customer count distribution 
 
