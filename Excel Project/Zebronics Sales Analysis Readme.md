@@ -19,9 +19,13 @@ The outcomes will support data-driven decision-making for sales optimization, ma
 
 
 
+
+
 🛠 Tools Used
 
 •	Excel → Data cleaning, pivot tables, basic analysis
+
+
 
 
 
@@ -46,6 +50,8 @@ The outcomes will support data-driven decision-making for sales optimization, ma
 •	Top Products by Revenue = Highest-selling products
 
 •	Sales by Age Group = Contribution of Young, Adult, Senior
+
+
 
 
 
