@@ -19,17 +19,14 @@ The outcomes will support data-driven decision-making for sales optimization, ma
 
 
 
-
-
 🛠 Tools Used
 
 •	Excel → Data cleaning, pivot tables, basic analysis
 
 
 
-
-
 📊 Key Performance Indicators (KPIs)
+
 
 •	Total Revenue = Σ (Total sales amount)
 
@@ -54,8 +51,8 @@ The outcomes will support data-driven decision-making for sales optimization, ma
 
 
 
-
 📈 Dashboard Insights
+
 •	Sales Overview 
 
 •	Total Revenue, Orders, Customers, AOV
@@ -67,6 +64,7 @@ The outcomes will support data-driven decision-making for sales optimization, ma
 •	Customer Insights
 
 •	Revenue by Age Group 
+
 
 •	Customer count distribution 
 
