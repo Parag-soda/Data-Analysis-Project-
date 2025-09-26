@@ -3,6 +3,7 @@
 
 📌 Project Proposal
 
+
 This project aims to analyze Zebronics’ sales performance across India using a dataset of 18,000 transactions (2023–2024).
 
 The dataset captures customer demographics, sales channels, products, and revenue, enabling insights into:
